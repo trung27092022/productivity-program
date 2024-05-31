@@ -2,7 +2,7 @@ Step 1: Get values todo, KPI(goal)
 
 Step 2: Set value completed to viec can lam + KPI (goal) 
 
-Step 3: While “completed = No“ do Step i to Step j 
+Step 3: While “completed = No“ do Step i to Step i+23
 
 	Step i: Print “Please finish it!” 
  
