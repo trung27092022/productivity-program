@@ -1,6 +1,6 @@
 Step 1: Get values todo, KPI(goal) 
 
-Step 2: Set value completed to viec can lam + KPI (goal) 
+Step 2: Set value completed to todo + KPI(goal) 
 
 Step 3: While “completed = No“ do Step i to Step i+23
 
@@ -57,3 +57,4 @@ Step 4: Print/Present/Communicate the results of completed to …
 Step 5: Stop 
 
 * edited: 7:30AM 31 May 2024.
+* (Personal)
