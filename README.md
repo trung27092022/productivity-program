@@ -28,25 +28,25 @@ Step 3: While “completed = No“ do Step i to Step i+23
   
 	Step i+11: Print “Check 4th: Are you sure now?” 
  
-	Step i+12: While “response5 = No” do step i+11 
+	Step i+12: While “response5 = No” do step i+13
  
 		Step I+13: Print “Check 4th: Please review it again!”  
   
 	Step i+14: Print “Check 5th: Are you sure now?” 
  
-	Step i+15: While “response6 = No” do step … to step … 
+	Step i+15: While “response6 = No” do step i+16
  
 		Step i+16: Print “Check 5th: Please review it again!” 
   
 	Step i+17: Print “Check 6th: Are you sure now?” 
  
-	Step i+18: While “response7 = No” do step … to step … 
+	Step i+18: While “response7 = No” do step i+19
  
 		Step i+19: Print “Check 6th: Please review it again!” 
   
 	Step i+20:  Print the message ‘Have you finished the work? Enter Yes or No’ 
  
-	Step i+21: Get a new value for response from the user. While “response8 = No” do step … to step …
+	Step i+21: Get a new value for response from the user. While “response8 = No” do step i=22
  
 		Step i+22: Print “Please finish it!”
   
